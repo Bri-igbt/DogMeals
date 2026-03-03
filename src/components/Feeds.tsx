@@ -2,7 +2,7 @@ import { assets } from '../utils'
 
 const Feeds = () => {
     return (
-        <section className="bg-white px-4 sm:px-6 py-12 sm:py-20 mb-20">
+        <section className="bg-white px-4 sm:px-6 py-12 sm:py-20">
             <div className="max-w-5xl mx-auto">
                 <div className="flex flex-col lg:flex-row items-center gap-10 lg:gap-16">
                     <div className="flex-1 min-w-0 text-left order-2 lg:order-1">
@@ -10,7 +10,7 @@ const Feeds = () => {
                             Prebiotics nourish the beneficial gut bacteria, supporting digestive health
                         </h2>
 
-                        <p className="text-[#6B7280] text-justify text-sm sm:text-[14.5px] font-light leading-relaxed">
+                        <p className="text-[#6B7280] text-sm sm:text-[14.5px] font-light text-justify leading-relaxed">
                             Our dog food formula contains carefully selected prebiotics that work in harmony with
                             the gut microbiota, providing the necessary nutrients for the growth and maintenance of
                             beneficial bacteria, ultimately supporting digestive health.
